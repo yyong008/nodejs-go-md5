@@ -1,0 +1,6 @@
+node_modules
+target
+
+*.mkv
+*.mp4
+c
